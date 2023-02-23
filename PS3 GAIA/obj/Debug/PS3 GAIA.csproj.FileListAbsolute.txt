@@ -1,0 +1,21 @@
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\bin\Debug\PS3 GAIA.exe
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\bin\Debug\PS3 GAIA.pdb
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\Debug\PS3 GAIA.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\Debug\PS3_GAIA.Form1.resources
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\Debug\PS3_GAIA.Properties.Resources.resources
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\Debug\PS3 GAIA.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\Debug\PS3 GAIA.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\Debug\PS3 GAIA.exe
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\Debug\PS3 GAIA.pdb
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\Debug\PS3_GAIA.Options.resources
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\Debug\PS3_GAIA.AboutBox1.resources
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\bin\Debug\PS3 GAIA.exe.config
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\Debug\PS3_GAIA.Images.resources
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\Debug\PS3_GAIA.New_Tab.resources
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\bin\Debug\New_Tab.resx
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\bin\Debug\New_Tab.cs
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\bin\Debug\New_Tab.Designer.cs
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\Debug\PS3_GAIA.Base.resources
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\Debug\PS3_GAIA.Main_QRC.resources
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\Debug\PS3_GAIA.Warning.resources
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\Debug\PS3_GAIA.Multi_Extract.resources

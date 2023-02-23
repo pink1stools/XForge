@@ -1,0 +1,16 @@
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\Debug\QRC_Editoror.Form1.resources
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\Debug\QRC_Editor.Images.resources
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\Debug\QRC_Editoror.Options.resources
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\Debug\QRC_Editoror.Properties.Resources.resources
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\Debug\QRC_Editoror.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\Debug\QRC_Editoror.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\Debug\QRC_Editoror.Form2.resources
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\Debug\QRC_Editoror.More_File_Info.resources
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\bin\Debug\XForge.exe.config
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\bin\Debug\XForge.exe
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\bin\Debug\XForge.pdb
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\Debug\XForge.exe
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\Debug\XForge.pdb
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\Debug\QRC_Editoror.MD5_List.resources
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\Debug\QRC_Editoror.AboutBox1.resources
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\Debug\QRC_Editoror.csprojAssemblyReference.cache
