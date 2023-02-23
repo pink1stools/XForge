@@ -1,0 +1,16 @@
+C:\Users\Home\Downloads\WinFormsSyntaxHighlighter-master\WinFormsSyntaxHighlighter-master\WinFormsSyntaxHighlighter\bin\Debug\WinFormsSyntaxHighlighter.dll
+C:\Users\Home\Downloads\WinFormsSyntaxHighlighter-master\WinFormsSyntaxHighlighter-master\WinFormsSyntaxHighlighter\bin\Debug\WinFormsSyntaxHighlighter.pdb
+C:\Users\Home\Downloads\WinFormsSyntaxHighlighter-master\WinFormsSyntaxHighlighter-master\WinFormsSyntaxHighlighter\obj\Debug\WinFormsSyntaxHighlighter.csprojAssemblyReference.cache
+C:\Users\Home\Downloads\WinFormsSyntaxHighlighter-master\WinFormsSyntaxHighlighter-master\WinFormsSyntaxHighlighter\obj\Debug\WinFormsSyntaxHighlighter.csproj.CoreCompileInputs.cache
+C:\Users\Home\Downloads\WinFormsSyntaxHighlighter-master\WinFormsSyntaxHighlighter-master\WinFormsSyntaxHighlighter\obj\Debug\WinFormsSyntaxHighlighter.dll
+C:\Users\Home\Downloads\WinFormsSyntaxHighlighter-master\WinFormsSyntaxHighlighter-master\WinFormsSyntaxHighlighter\obj\Debug\WinFormsSyntaxHighlighter.pdb
+C:\Users\Home\Desktop\PS3 GAIA Dark\WinFormsSyntaxHighlighter\bin\Debug\WinFormsSyntaxHighlighter.dll
+C:\Users\Home\Desktop\PS3 GAIA Dark\WinFormsSyntaxHighlighter\bin\Debug\WinFormsSyntaxHighlighter.pdb
+C:\Users\Home\Desktop\PS3 GAIA Dark\WinFormsSyntaxHighlighter\obj\Debug\WinFormsSyntaxHighlighter.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\PS3 GAIA Dark\WinFormsSyntaxHighlighter\obj\Debug\WinFormsSyntaxHighlighter.dll
+C:\Users\Home\Desktop\PS3 GAIA Dark\WinFormsSyntaxHighlighter\obj\Debug\WinFormsSyntaxHighlighter.pdb
+C:\Users\Home\Desktop\PS3 GAIA Dark\WinFormsSyntaxHighlighter\bin\Debug\FastColoredTextBox.dll
+C:\Users\Home\Desktop\PS3 GAIA Dark\WinFormsSyntaxHighlighter\bin\Debug\FastColoredTextBox.pdb
+C:\Users\Home\Desktop\PS3 GAIA Dark\WinFormsSyntaxHighlighter\bin\Debug\FastColoredTextBox.xml
+C:\Users\Home\Desktop\PS3 GAIA Dark\WinFormsSyntaxHighlighter\obj\Debug\WinFormsSyntaxHighlighter.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\PS3 GAIA Dark\WinFormsSyntaxHighlighter\obj\Debug\WinFormsSyntaxHighlighter.csproj.CopyComplete

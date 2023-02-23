@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XForge", "PS3 GAIA\XForge.csproj", "{337AC161-5E37-4E1A-B6BC-6BAC447AD902}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFHexaEditor", "WPFHexaEditor.Control\WPFHexaEditor.csproj", "{CF6AC02D-02FA-4EE9-A507-BD94F489972E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DarkUI", "DarkUI\DarkUI.csproj", "{F19472F5-8C44-4C51-A8A0-B9DE5F555255}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastColoredTextBox", "FastColoredTextBox\FastColoredTextBox.csproj", "{6DD14A85-CCFC-4774-BD26-0F5772512319}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{337AC161-5E37-4E1A-B6BC-6BAC447AD902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{337AC161-5E37-4E1A-B6BC-6BAC447AD902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{337AC161-5E37-4E1A-B6BC-6BAC447AD902}.Debug|x86.ActiveCfg = Debug|x86
+		{337AC161-5E37-4E1A-B6BC-6BAC447AD902}.Debug|x86.Build.0 = Debug|x86
+		{337AC161-5E37-4E1A-B6BC-6BAC447AD902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{337AC161-5E37-4E1A-B6BC-6BAC447AD902}.Release|Any CPU.Build.0 = Release|Any CPU
+		{337AC161-5E37-4E1A-B6BC-6BAC447AD902}.Release|x86.ActiveCfg = Release|x86
+		{337AC161-5E37-4E1A-B6BC-6BAC447AD902}.Release|x86.Build.0 = Release|x86
+		{CF6AC02D-02FA-4EE9-A507-BD94F489972E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF6AC02D-02FA-4EE9-A507-BD94F489972E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF6AC02D-02FA-4EE9-A507-BD94F489972E}.Debug|x86.ActiveCfg = Debug|x86
+		{CF6AC02D-02FA-4EE9-A507-BD94F489972E}.Debug|x86.Build.0 = Debug|x86
+		{CF6AC02D-02FA-4EE9-A507-BD94F489972E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF6AC02D-02FA-4EE9-A507-BD94F489972E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF6AC02D-02FA-4EE9-A507-BD94F489972E}.Release|x86.ActiveCfg = Release|x86
+		{CF6AC02D-02FA-4EE9-A507-BD94F489972E}.Release|x86.Build.0 = Release|x86
+		{F19472F5-8C44-4C51-A8A0-B9DE5F555255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F19472F5-8C44-4C51-A8A0-B9DE5F555255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F19472F5-8C44-4C51-A8A0-B9DE5F555255}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F19472F5-8C44-4C51-A8A0-B9DE5F555255}.Debug|x86.Build.0 = Debug|Any CPU
+		{F19472F5-8C44-4C51-A8A0-B9DE5F555255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F19472F5-8C44-4C51-A8A0-B9DE5F555255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F19472F5-8C44-4C51-A8A0-B9DE5F555255}.Release|x86.ActiveCfg = Release|Any CPU
+		{F19472F5-8C44-4C51-A8A0-B9DE5F555255}.Release|x86.Build.0 = Release|Any CPU
+		{6DD14A85-CCFC-4774-BD26-0F5772512319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DD14A85-CCFC-4774-BD26-0F5772512319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DD14A85-CCFC-4774-BD26-0F5772512319}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6DD14A85-CCFC-4774-BD26-0F5772512319}.Debug|x86.Build.0 = Debug|Any CPU
+		{6DD14A85-CCFC-4774-BD26-0F5772512319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DD14A85-CCFC-4774-BD26-0F5772512319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DD14A85-CCFC-4774-BD26-0F5772512319}.Release|x86.ActiveCfg = Release|Any CPU
+		{6DD14A85-CCFC-4774-BD26-0F5772512319}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EF13251-6999-433B-9AF7-0F954DF20ED0}
+	EndGlobalSection
+EndGlobal
