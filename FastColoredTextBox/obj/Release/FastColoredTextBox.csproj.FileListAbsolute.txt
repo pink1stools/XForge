@@ -1,0 +1,11 @@
+C:\Users\Home\Desktop\PS3 GAIA Dark\FastColoredTextBox\bin\Release\FastColoredTextBox.dll
+C:\Users\Home\Desktop\PS3 GAIA Dark\FastColoredTextBox\bin\Release\FastColoredTextBox.pdb
+C:\Users\Home\Desktop\PS3 GAIA Dark\FastColoredTextBox\obj\Release\FastColoredTextBoxNS.FastColoredTextBox.resources
+C:\Users\Home\Desktop\PS3 GAIA Dark\FastColoredTextBox\obj\Release\FastColoredTextBoxNS.FindForm.resources
+C:\Users\Home\Desktop\PS3 GAIA Dark\FastColoredTextBox\obj\Release\FastColoredTextBoxNS.GoToForm.resources
+C:\Users\Home\Desktop\PS3 GAIA Dark\FastColoredTextBox\obj\Release\FastColoredTextBoxNS.HotkeysEditorForm.resources
+C:\Users\Home\Desktop\PS3 GAIA Dark\FastColoredTextBox\obj\Release\FastColoredTextBoxNS.ReplaceForm.resources
+C:\Users\Home\Desktop\PS3 GAIA Dark\FastColoredTextBox\obj\Release\FastColoredTextBox.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\PS3 GAIA Dark\FastColoredTextBox\obj\Release\FastColoredTextBox.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\PS3 GAIA Dark\FastColoredTextBox\obj\Release\FastColoredTextBox.dll
+C:\Users\Home\Desktop\PS3 GAIA Dark\FastColoredTextBox\obj\Release\FastColoredTextBox.pdb
