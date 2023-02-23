@@ -1,0 +1,53 @@
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\bin\x86\Debug\XForge.exe.config
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\bin\x86\Debug\XForge.exe
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\bin\x86\Debug\XForge.pdb
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\x86\Debug\QRC_Editoror.AboutBox1.resources
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\x86\Debug\QRC_Editoror.Form2.resources
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\x86\Debug\QRC_Editoror.Form1.resources
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\x86\Debug\QRC_Editor.Images.resources
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\x86\Debug\QRC_Editoror.MD5_List.resources
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\x86\Debug\QRC_Editoror.Options.resources
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\x86\Debug\QRC_Editoror.Properties.Resources.resources
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\x86\Debug\QRC_Editoror.More_File_Info.resources
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\x86\Debug\QRC_Editoror.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\x86\Debug\QRC_Editoror.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\x86\Debug\XForge.exe
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\x86\Debug\XForge.pdb
+C:\Users\Home\source\repos\PS3 GAIA\PS3 GAIA\obj\x86\Debug\QRC_Editoror.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\PS3 GAIA\PS3 GAIA\PS3 GAIA\bin\x86\Debug\XForge.exe.config
+C:\Users\Home\Desktop\PS3 GAIA\PS3 GAIA\PS3 GAIA\bin\x86\Debug\XForge.exe
+C:\Users\Home\Desktop\PS3 GAIA\PS3 GAIA\PS3 GAIA\bin\x86\Debug\XForge.pdb
+C:\Users\Home\Desktop\PS3 GAIA\PS3 GAIA\PS3 GAIA\obj\x86\Debug\QRC_Editoror.Form2.resources
+C:\Users\Home\Desktop\PS3 GAIA\PS3 GAIA\PS3 GAIA\obj\x86\Debug\QRC_Editoror.Form1.resources
+C:\Users\Home\Desktop\PS3 GAIA\PS3 GAIA\PS3 GAIA\obj\x86\Debug\QRC_Editor.Images.resources
+C:\Users\Home\Desktop\PS3 GAIA\PS3 GAIA\PS3 GAIA\obj\x86\Debug\QRC_Editoror.MD5_List.resources
+C:\Users\Home\Desktop\PS3 GAIA\PS3 GAIA\PS3 GAIA\obj\x86\Debug\QRC_Editoror.Options.resources
+C:\Users\Home\Desktop\PS3 GAIA\PS3 GAIA\PS3 GAIA\obj\x86\Debug\QRC_Editoror.Properties.Resources.resources
+C:\Users\Home\Desktop\PS3 GAIA\PS3 GAIA\PS3 GAIA\obj\x86\Debug\QRC_Editoror.More_File_Info.resources
+C:\Users\Home\Desktop\PS3 GAIA\PS3 GAIA\PS3 GAIA\obj\x86\Debug\QRC_Editoror.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\PS3 GAIA\PS3 GAIA\PS3 GAIA\obj\x86\Debug\QRC_Editoror.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\PS3 GAIA\PS3 GAIA\PS3 GAIA\obj\x86\Debug\XForge.exe
+C:\Users\Home\Desktop\PS3 GAIA\PS3 GAIA\PS3 GAIA\obj\x86\Debug\XForge.pdb
+C:\Users\Home\Desktop\PS3 GAIA\PS3 GAIA\PS3 GAIA\obj\x86\Debug\QRC_Editoror.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\PS3 GAIA\PS3 GAIA\PS3 GAIA\bin\x86\Debug\WPFHexaEditor.dll
+C:\Users\Home\Desktop\PS3 GAIA\PS3 GAIA\PS3 GAIA\bin\x86\Debug\WPFHexaEditor.pdb
+C:\Users\Home\Desktop\PS3 GAIA\PS3 GAIA\PS3 GAIA\bin\x86\Debug\fr-CA\WPFHexaEditor.resources.dll
+C:\Users\Home\Desktop\PS3 GAIA\PS3 GAIA\PS3 GAIA\obj\x86\Debug\QRC_Editoror.csproj.CopyComplete
+C:\Users\Home\Desktop\PS3 GAIA Dark\PS3 GAIA\obj\x86\Debug\QRC_Editoror.Form2.resources
+C:\Users\Home\Desktop\PS3 GAIA Dark\PS3 GAIA\obj\x86\Debug\QRC_Editoror.Form1.resources
+C:\Users\Home\Desktop\PS3 GAIA Dark\PS3 GAIA\obj\x86\Debug\QRC_Editor.Images.resources
+C:\Users\Home\Desktop\PS3 GAIA Dark\PS3 GAIA\obj\x86\Debug\QRC_Editoror.MD5_List.resources
+C:\Users\Home\Desktop\PS3 GAIA Dark\PS3 GAIA\obj\x86\Debug\QRC_Editoror.Options.resources
+C:\Users\Home\Desktop\PS3 GAIA Dark\PS3 GAIA\obj\x86\Debug\QRC_Editoror.More_File_Info.resources
+C:\Users\Home\Desktop\PS3 GAIA Dark\PS3 GAIA\obj\x86\Debug\QRC_Editoror.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\PS3 GAIA Dark\PS3 GAIA\obj\x86\Debug\XForge.exe
+C:\Users\Home\Desktop\PS3 GAIA Dark\PS3 GAIA\obj\x86\Debug\XForge.pdb
+C:\Users\Home\Desktop\PS3 GAIA Dark\PS3 GAIA\bin\x86\Debug\XForge.exe.config
+C:\Users\Home\Desktop\PS3 GAIA Dark\PS3 GAIA\bin\x86\Debug\XForge.exe
+C:\Users\Home\Desktop\PS3 GAIA Dark\PS3 GAIA\bin\x86\Debug\XForge.pdb
+C:\Users\Home\Desktop\PS3 GAIA Dark\PS3 GAIA\bin\x86\Debug\fr-CA\WPFHexaEditor.resources.dll
+C:\Users\Home\Desktop\PS3 GAIA Dark\PS3 GAIA\obj\x86\Debug\QRC_Editoror.Properties.Resources.resources
+C:\Users\Home\Desktop\PS3 GAIA Dark\PS3 GAIA\obj\x86\Debug\QRC_Editoror.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\PS3 GAIA Dark\PS3 GAIA\obj\x86\Debug\QRC_Editoror.csproj.CopyComplete
+C:\Users\Home\Desktop\PS3 GAIA Dark\PS3 GAIA\obj\x86\Debug\QRC_Editoror.MD5s.resources
+C:\Users\Home\Desktop\PS3 GAIA Dark\PS3 GAIA\obj\x86\Debug\QRC_Editoror.csprojAssemblyReference.cache
