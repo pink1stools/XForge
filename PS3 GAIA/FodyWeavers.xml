@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Weavers>
+  <Costura>
+    <IncludeAssemblies>
+      DevILNet
+      Joveler.ZLibWrapper
+      DarkUI
+      WPFHexaEditor
+      
+      Newtonsoft.Json
+      MegaApiClient
+      FastColoredTextBox
+    </IncludeAssemblies>
+  </Costura>
+</Weavers>
