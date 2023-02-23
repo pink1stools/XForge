@@ -1,0 +1,58 @@
+﻿ <!--
+      Apache 2.0  - 2016-2017
+      Author : Derek Tremblay (derektremblay666@gmail.com)
+ -->
+
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="./MiscelanousDictionary.xaml" />
+    </ResourceDictionary.MergedDictionaries>
+
+    <!--USED FOR TOOLTIP OF IBYTECONTROL-->
+    <ToolTip x:Key="ByteToolTip">
+        <StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Value" FontWeight="Bold" Width="120" />
+                <Label Content="Byte" FontWeight="Bold" />
+                <Label Content="{Binding Byte, UpdateSourceTrigger=PropertyChanged}" Width="70" />
+                <Label Content="Hex" FontWeight="Bold" />
+                <Label Content="{Binding Byte, Converter={StaticResource LongHexConverter},  UpdateSourceTrigger=PropertyChanged}" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Position" FontWeight="Bold" Width="120" />
+                <Label Content="Long" FontWeight="Bold" />
+                <Label Content="{Binding BytePositionInFile, UpdateSourceTrigger=PropertyChanged}" Width="70" />
+                <Label Content="Hex" FontWeight="Bold" />
+                <Label Content="{Binding BytePositionInFile, Converter={StaticResource LongHexConverter}, UpdateSourceTrigger=PropertyChanged}" />
+            </StackPanel>
+            <Separator />
+            <StackPanel Orientation="Horizontal">
+                <Label Content="ByteAction" FontWeight="Bold" Width="120" />
+                <Label Content="{Binding Action, UpdateSourceTrigger=PropertyChanged}" />
+            </StackPanel>
+        </StackPanel>
+    </ToolTip>
+
+    <!--USED FOR TOOLTIP OF SCROLL MARKER-->
+    <ToolTip x:Key="ScrollMarkerSearchToolTip">
+        <StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Position" FontWeight="Bold" Width="120" />
+                <Label Content="Long:" FontWeight="Bold" />
+                <Label Content="{Binding BytePositionInFile, UpdateSourceTrigger=PropertyChanged}" />
+                <Label Content="Hex:" FontWeight="Bold" />
+                <Label Content="{Binding BytePositionInFile, Converter={StaticResource LongHexConverter}, UpdateSourceTrigger=PropertyChanged}" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Description :" FontWeight="Bold" Width="120" />
+                <Label Content="{Binding Description, UpdateSourceTrigger=PropertyChanged}" />
+            </StackPanel>
+            <Separator />
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Click to go to at position." FontWeight="Bold" />
+            </StackPanel>
+        </StackPanel>
+    </ToolTip>
+</ResourceDictionary>
