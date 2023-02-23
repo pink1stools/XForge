@@ -1,0 +1,16 @@
+C:\Users\Home\Desktop\PS3 GAIA Dark\DarkUI\bin\Release\DarkUI.dll
+C:\Users\Home\Desktop\PS3 GAIA Dark\DarkUI\bin\Release\DarkUI.pdb
+C:\Users\Home\Desktop\PS3 GAIA Dark\DarkUI\obj\Release\DarkUI.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\PS3 GAIA Dark\DarkUI\obj\Release\DarkUI.Controls.DarkDataGridView.resources
+C:\Users\Home\Desktop\PS3 GAIA Dark\DarkUI\obj\Release\DarkUI.Forms.DarkDialog.resources
+C:\Users\Home\Desktop\PS3 GAIA Dark\DarkUI\obj\Release\DarkUI.Forms.DarkMessageBox.resources
+C:\Users\Home\Desktop\PS3 GAIA Dark\DarkUI\obj\Release\DarkUI.Icons.DockIcons.resources
+C:\Users\Home\Desktop\PS3 GAIA Dark\DarkUI\obj\Release\DarkUI.Icons.DropdownIcons.resources
+C:\Users\Home\Desktop\PS3 GAIA Dark\DarkUI\obj\Release\DarkUI.Icons.MenuIcons.resources
+C:\Users\Home\Desktop\PS3 GAIA Dark\DarkUI\obj\Release\DarkUI.Icons.MessageBoxIcons.resources
+C:\Users\Home\Desktop\PS3 GAIA Dark\DarkUI\obj\Release\DarkUI.Icons.ScrollIcons.resources
+C:\Users\Home\Desktop\PS3 GAIA Dark\DarkUI\obj\Release\DarkUI.Icons.TreeViewIcons.resources
+C:\Users\Home\Desktop\PS3 GAIA Dark\DarkUI\obj\Release\DarkUI.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\PS3 GAIA Dark\DarkUI\obj\Release\DarkUI.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\PS3 GAIA Dark\DarkUI\obj\Release\DarkUI.dll
+C:\Users\Home\Desktop\PS3 GAIA Dark\DarkUI\obj\Release\DarkUI.pdb
